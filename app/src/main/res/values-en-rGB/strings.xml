@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App English</string>
+    <string name="altura">Hight</string>
+    <string name="btnvuelta">Turn around</string>
+    <string name="name_text">Name</string>
+    <string name="nombre">Put name</string>
+    <string name="peso">Width</string>
+    <string name="saludo">Hello</string>
+    <string name="calcular">Cal</string>
+    <string name="titulo">"Mass "</string>
+    <string name="faltapeso">Low Heigh</string>
+</resources>

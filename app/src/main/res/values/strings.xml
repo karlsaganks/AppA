@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">App Default</string>
+    <string name="nombre">Introducir un Nombre</string>
+    <string name="name_text">Name</string>
+    <string name="btnvuelta">Da la Vuelta</string>
+    <string name="saludo">Hola</string>
+    <string name="peso">Peso</string>
+    <string name="altura">Altura</string>
+    <string name="calcular">Calcular</string>
+    <string name="titulo">Indice de Masa Corporal</string>
+    <string name="faltapeso">Desnutrido</string>
+</resources>

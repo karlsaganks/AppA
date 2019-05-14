@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App France</string>
+    <string name="altura">Alture</string>
+    <string name="btnvuelta">Vuelte</string>
+    <string name="name_text">Name</string>
+    <string name="nombre">A Name</string>
+    <string name="peso">Pese</string>
+    <string name="saludo">Alo</string>
+    <string name="calcular">Calcule</string>
+    <string name="titulo">Mase Corpore</string>
+    <string name="faltapeso">Poco Pesee</string>
+</resources>
